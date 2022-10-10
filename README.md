@@ -16,13 +16,13 @@
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/adal-obregon/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/adal-obregon/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Adal" height="30"/></a>
-      <a href="https://twitter.com/AdalObregon" target="blank"><img align="center"
+      <a href="https://twitter.com/AdalObregon" target="_blank"><img align="center"
         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
         alt="Adal" height="30"/></a>
-      <a href="https://discord.com/users/742412946843369562" target="blank"><img align="center"
+      <a href="https://discord.com/users/742412946843369562" target="_blank"><img align="center"
         src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
         alt="azzar" height="30"/></a>
     </p>
