@@ -88,3 +88,7 @@
 <br/>
   </samp>
 
+<br/>
+
+-----
+Credits: [1999AZZAR](https://github.com/1999AZZAR)
